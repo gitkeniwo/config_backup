@@ -1,0 +1,60 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#A5A5A5FF",
+        "font" : "System",
+        "color" : "#A5A5A5FF"
+      },
+      "shortcut" : {
+        "size" : 18,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#B801FBFF"
+      },
+      "backgroundSelected" : "#6D17A7FF",
+      "text" : {
+        "size" : 15,
+        "colorSelected" : "#EAE8EBFF",
+        "font" : "System",
+        "color" : "#FDFCFFFF"
+      },
+      "iconPaddingHorizontal" : 3,
+      "paddingVertical" : 2,
+      "iconSize" : 40
+    },
+    "separator" : {
+      "color" : "#323232FF",
+      "thickness" : 1
+    },
+    "search" : {
+      "paddingVertical" : 7,
+      "background" : "#2F2F2FFF",
+      "spacing" : 5,
+      "text" : {
+        "size" : 43,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#EAEAEAFF"
+      },
+      "backgroundSelected" : "#3F638BFF"
+    },
+    "scrollbar" : {
+      "color" : "#49494AFF",
+      "thickness" : 2
+    },
+    "name" : "Classic Dark",
+    "window" : {
+      "color" : "#2E2E2FFF",
+      "paddingHorizontal" : 10,
+      "width" : 600,
+      "borderPadding" : 10,
+      "borderColor" : "#0000007F",
+      "blur" : 20,
+      "roundness" : 20,
+      "paddingVertical" : 10
+    }
+  }
+}

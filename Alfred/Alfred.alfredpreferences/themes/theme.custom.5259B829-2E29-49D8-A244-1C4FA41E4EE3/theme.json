@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 11,
+        "colorSelected" : "#A5A5A5FF",
+        "font" : "Menlo",
+        "color" : "#A5A5A5FF"
+      },
+      "shortcut" : {
+        "size" : 18,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "PT Mono",
+        "color" : "#B801FBFF"
+      },
+      "backgroundSelected" : "#6D17A7FF",
+      "text" : {
+        "size" : 17,
+        "colorSelected" : "#EAE8EBFF",
+        "font" : "Menlo",
+        "color" : "#FDFCFFFF"
+      },
+      "iconPaddingHorizontal" : 6,
+      "paddingVertical" : 2,
+      "iconSize" : 46
+    },
+    "search" : {
+      "paddingVertical" : 7,
+      "background" : "#FFFFFF00",
+      "spacing" : 5,
+      "text" : {
+        "size" : 49,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "PT Mono",
+        "color" : "#EAEAEAFF"
+      },
+      "backgroundSelected" : "#3F638BFF"
+    },
+    "window" : {
+      "color" : "#2D2E2F7F",
+      "paddingHorizontal" : 25,
+      "width" : 600,
+      "borderPadding" : 13,
+      "borderColor" : "#0000007F",
+      "blur" : 32,
+      "roundness" : 20,
+      "paddingVertical" : 27
+    },
+    "credit" : "Rikima",
+    "separator" : {
+      "color" : "#32323200",
+      "thickness" : 1
+    },
+    "scrollbar" : {
+      "color" : "#49494A0B",
+      "thickness" : 2
+    },
+    "name" : "Alfred Classic Dark"
+  }
+}
